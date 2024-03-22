@@ -1,7 +1,7 @@
 
-═════════════════════════════ஜ۩۞۩ஜ═════════════════════════════
-•● W E L C O M E- T O -M Y -P R O F I L E ●•
-═════════════════════════════ஜ۩۞۩ஜ═════════════════════════════
+- ═════════════════════════════ஜ۩۞۩ஜ═════════════════════════════
+- •● W E L C O M E- T O -M Y -P R O F I L E ●•
+- ═════════════════════════════ஜ۩۞۩ஜ═════════════════════════════
 - Mijn naam is Superking415 (Noah)
 - HTML, CSS, Javascript, PHP, Wordpress, (SQL)
 - Photoshop, Illustrator, Indesign, AdobeXD, After Effects, Figma
