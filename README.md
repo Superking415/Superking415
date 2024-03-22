@@ -1,7 +1,11 @@
-- 👋 Heyoo, my name is Superking415 (Noah)
-- 👀 I can code with "HTML, CSS, Javascript, PHP, Wordpress, Python" and Database SQL.
-- 🌱 I can create with "Photoshop, Illustrator, Indesign, AdobeXD, After effects, Media encoder, and Figma"
-- 📫 My website noahvl.nl (Currently closed)
+      ═════════════════════════════════ஜ۩۞۩ஜ═════════════════════════════════
+　 　 　            　•● W E L C O M E- T O -M Y -P R O F I L E ●•
+      ═════════════════════════════════ஜ۩۞۩ஜ═════════════════════════════════
+                              Mijn naam is Superking415 (Noah)
+                      HTML, CSS, Javascript, PHP, Wordpress, (SQL)
+          Photoshop, Illustrator, Indesign, AdobeXD, After Effects, Figma
+                      DOWNLOAD MIJN PORTFOLIO Portfolio_Noah
+
   
 
 <!---
