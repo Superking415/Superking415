@@ -2,7 +2,7 @@
 - ═════════════════════════════ஜ۩۞۩ஜ═════════════════════════════
 -                           •● W E L C O M E- T O -M Y -P R O F I L E ●•
 - ═════════════════════════════ஜ۩۞۩ஜ═════════════════════════════
-- Mijn naam is Superking415 (Noah)
+- Mijn naam is Superking415, (Noah)
   
 -  ![HTML5](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
@@ -16,6 +16,7 @@
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) 
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) 
 - BEZOEK MIJN PORTFOLIO WEBSITE! nvanloon.nl
+- - ═════════════════════════════ஜ۩۞۩ஜ═════════════════════════════
 
   
 
