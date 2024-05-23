@@ -72,9 +72,8 @@ ________________________________________________________________________________
   <a href="mailto:noahvanloon@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <div align="left">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-</div>
+
 
 ###
 </div>
