@@ -69,7 +69,7 @@ ________________________________________________________________________________
   <a href="https://www.linkedin.com/in/noah-van-loon-a27834223/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:noahvanloon@gmail.com" target="_blank">
+  <a href="mailto:NOG NIKS" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
@@ -79,7 +79,7 @@ ________________________________________________________________________________
 </div>
 
 ###
-<p align= "center"> BEZOEK MIJN PORTFOLIO WEBSITE! nvanloon.nl </p>
+<p align= "center"> BEZOEK MIJN PORTFOLIO WEBSITE! https://nvanloon.nl </p>
 <p align="center">══════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════ </p>
 
   
