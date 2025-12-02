@@ -70,7 +70,7 @@ ________________________________________________________________________________
 </div>
 
 ###
-<p align= "center"> BEZOEK MIJN PORTFOLIO WEBSITE! https://nvanloon.nl </p>
+<p align= "center"> BEZOEK MIJN WEBSITE! https://nvanloon.nl </p>
 <p align="center">══════════════════════════════════ஜ۩۞۩ஜ══════════════════════════════════ </p>
 
   
